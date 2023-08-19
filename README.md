@@ -14,7 +14,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Ecommerse-Api
+  cd Ecommerse-Apis
 ```
 
 Install dependencies
